@@ -1,0 +1,23 @@
+{
+  "name": "smtp.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tail": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodBog17/smtp.com.git"
+  },
+  "author": "RodBog17",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodBog17/smtp.com/issues"
+  },
+  "homepage": "https://github.com/RodBog17/smtp.com#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
